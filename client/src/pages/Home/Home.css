@@ -1,0 +1,16 @@
+.video-container{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin-top: 1.25rem;
+}
+
+.main-h1{
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+@media (max-width: 768px) {
+    .main-h1{
+        font-size: calc(1.375rem + 1.2vw);
+    }
+}

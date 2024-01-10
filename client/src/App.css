@@ -1,0 +1,13 @@
+.app-style{
+    background-color: #FFFFFF;
+    width:100%;
+    height:100vh;
+    color: #000000;
+}
+
+.app-style-dark{
+    background-color: #1d2124;
+    width: 100%;
+    height: 100vh;
+    color: #FFFFFF;
+}

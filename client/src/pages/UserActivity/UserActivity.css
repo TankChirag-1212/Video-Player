@@ -1,0 +1,19 @@
+.main-container{
+    margin: 20px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container table{
+    margin-top: 20px;
+    width: 70%;
+    border: 2px solid #a096a4e1;
+}
+
+.main-container table td, .main-container table  th{
+    border-width: 1px;
+    border-color: #a096a4e1;
+    text-align: center;
+}
