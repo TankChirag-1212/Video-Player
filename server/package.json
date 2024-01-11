@@ -4,8 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "npm run build"
+    "start": "nodemon index.js"
   },
   "author": "Chirag",
   "license": "ISC",
